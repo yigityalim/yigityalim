@@ -4,7 +4,7 @@
 ## 📚 Currently Learning:
 * ![Android](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639)<br/>
 * ![Flutter](https://img.shields.io/badge/flutter-%2320232a.svg?style=for-the-badge&logo=flutter&logoColor=%2361DAFB) <br/>
-* ![Swift](https://img.shields.io/badge/swift-%2320232a.svg?style=for-the-badge&logo=swift&logoColor=%2361DAFB)<br/>
+* ![Swift](https://img.shields.io/badge/swift-%2320232a.svg?style=for-the-badge&logo=swift&logoColor=%FF3F29)<br/>
 * ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)
 
 ## 🌐 Socials:
