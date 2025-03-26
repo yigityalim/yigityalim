@@ -8,6 +8,6 @@
 	•	🔹 Diğer: Expo, Turborepo, Vercel
 
 📫 Bana Ulaşın
-	•	💻 (Portfolyo Sitem)[mehmetyigityalim.com]
+	•	💻 [Portfolyo Sitem](mehmetyigityalim.com)
 	•	📧 Mail: mail@mehmetyigityalim.com
 	•	💬 LinkedIn: linkedin.com/in/mehmetyigityalim
