@@ -1,15 +1,16 @@
-🌟 Yiğit | Fullstack Developer
+✨ Yiğit | Fullstack Geliştirici ✨
+👋 Merhaba! Ben Yiğit, modern web teknolojileriyle 🚀 hızlı, 📈 ölçeklenebilir ve 🎯 kullanıcı odaklı uygulamalar geliştiren freelance bir fullstack geliştiriciyim.
 
-👋 Merhaba! Ben Yiğit, freelance çalışan bir fullstack geliştiriciyim. Modern web teknolojileri ile hızlı, ölçeklenebilir ve kullanıcı odaklı uygulamalar geliştiriyorum.
+🛠️ Kullandığım Teknolojiler
+- Frontend: ⚛️ Next.js, React, TailwindCSS, ShadCN UI
 
-🚀 Kullandığım Teknolojiler
+- Backend: ☕ NestJS, Supabase, Drizzle ORM, Redis, PostgreSQL
 
-	•	🔹 Frontend: Next.js, React, TailwindCSS, ShadCN UI
-	•	🔹 Backend: NestJS, Supabase, Drizzle ORM, Redis, PostgreSQL
-	•	🔹 Diğer: Expo, Turborepo, Vercel
+- Diğer: 📱 Expo, Turborepo, Vercel
 
-📫 Bana Ulaşın
+📞 Bana Ulaşın
+- 💻 Portfolyo Sitem: mehmetyigityalim.com
 
-	•	💻 [Portfolyo Sitem](mehmetyigityalim.com)
-	•	📧 Mail: mail@mehmetyigityalim.com
-	•	💬 LinkedIn: linkedin.com/in/mehmetyigityalim
+- 📧 Mail: mail@mehmetyigityalim.com
+
+- 💬 LinkedIn: linkedin.com/in/mehmetyigityalim
