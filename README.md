@@ -1,30 +1,16 @@
 # Mehmet Yiğit Yalım
 
-Software engineer focused on infrastructure, developer tooling, and native software.
+Software engineer focused on building reliable, maintainable software with clear architectural boundaries.
 
-I build systems where correctness, explicit contracts, and operational clarity matter. My work favors strong type systems, deliberate dependency boundaries, predictable failure modes, and maintainable architectures over unnecessary complexity.
+I work primarily across TypeScript, Rust, Swift, and Go, with an emphasis on backend systems, developer tooling, systems software, and native applications.
 
-**Primary languages:** TypeScript · Rust · Swift · Go  
-**Areas of focus:** payments · developer tooling · systems software · macOS
+## Engineering approach
 
-## Selected work
-
-### [Orvacon](https://github.com/orvacon/orvacon)
-Provider-agnostic, TypeScript-first payment orchestration with a type-safe connector model and explicit payment-state boundaries.
-
-### [Percin](https://github.com/yigityalim/percin)
-A dependency-free, type-safe TypeScript framework for building command-line applications with fluent APIs and compile-time inference.
-
-### [Sweep](https://github.com/yigityalim/sweep)
-A macOS-first Rust CLI for proof-driven reclamation of reproducible developer data, built around conservative recovery contracts and non-destructive analysis.
-
-## Engineering principles
-
-- Make invalid states difficult to represent.
-- Keep public contracts small, explicit, and stable.
-- Treat security and failure behavior as architecture, not follow-up work.
-- Prefer narrow dependencies and understandable runtime behavior.
-- Optimize for maintainability before cleverness.
+- Strong typing and explicit contracts over implicit behavior.
+- Small, well-defined interfaces and deliberate dependency boundaries.
+- Security, failure modes, and operability treated as architectural concerns.
+- Simple runtime behavior preferred over unnecessary abstraction.
+- Maintainability and long-term clarity prioritized over short-term cleverness.
 
 ## Contact
 
