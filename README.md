@@ -1,17 +1,13 @@
 # Mehmet Yiğit Yalım
 
-Software engineer focused on building reliable, maintainable software with clear architectural boundaries.
+Software engineer in Ankara. I build backend systems, developer tools and native Apple apps, mostly in TypeScript, Go, Rust and Swift.
 
-I work primarily across TypeScript, Rust, Swift, and Go, with an emphasis on backend systems, developer tooling, systems software, and native applications.
+Most of what I write lives in private repositories. In short, it is:
 
-## Engineering approach
+- **Developer tools.** Small command-line tools that remove friction from daily work: a durable command queue, stable local HTTPS names instead of ports, a linter for text diagrams.
+- **Native apps.** Offline-first apps for iPhone, Apple Watch and Mac. No account, no server; data stays on the device or in the user's own iCloud.
+- **Privacy and security.** On-device detection of personal data, and end-to-end encrypted storage and transfer where the infrastructure never holds the key.
 
-- Strong typing and explicit contracts over implicit behavior.
-- Small, well-defined interfaces and deliberate dependency boundaries.
-- Security, failure modes, and operability treated as architectural concerns.
-- Simple runtime behavior preferred over unnecessary abstraction.
-- Maintainability and long-term clarity prioritized over short-term cleverness.
+What I care about in all of it: explicit contracts over implicit behaviour, failure modes designed in rather than patched on, and software that keeps working without me.
 
-## Contact
-
-[Website](https://mehmetyigityalim.com) · [LinkedIn](https://linkedin.com/in/mehmetyigityalim) · [Email](mailto:mail@mehmetyigityalim.com)
+[mehmetyigityalim.com](https://mehmetyigityalim.com) · [LinkedIn](https://linkedin.com/in/mehmetyigityalim) · [mail@mehmetyigityalim.com](mailto:mail@mehmetyigityalim.com)
